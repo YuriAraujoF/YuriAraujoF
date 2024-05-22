@@ -1,5 +1,11 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👍
+- Eu me chamo Yuri!
 
+- Estou estudando no alura
+
+- Estou me desenvolvendo com JavaScript
+
+- Utilizo este espeço para minha organização e compartilhamento dos meus projetos
 <!--
 **YuriAraujoF/YuriAraujoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
