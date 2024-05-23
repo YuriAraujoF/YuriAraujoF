@@ -12,11 +12,7 @@
 @yrzinn.a
 
 
-![](![image](https://github.com/YuriAraujoF/YuriAraujoF/assets/170553784/d569c938-b631-4a7d-b5a8-65b5375febc7)
-
-### você pode entrar em contato comigo 📧
-
-@yrzinn.a
+![image](https://github.com/YuriAraujoF/YuriAraujoF/assets/170553784/d569c938-b631-4a7d-b5a8-65b5375febc7)
 
 
 <!--
