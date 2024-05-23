@@ -9,6 +9,10 @@
 
 ![](![image](https://github.com/YuriAraujoF/YuriAraujoF/assets/170553784/d569c938-b631-4a7d-b5a8-65b5375febc7)
 
+### você pode entrar em contato comigo 📧
+
+@yrzinn.a
+
 
 <!--
 **YuriAraujoF/YuriAraujoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
